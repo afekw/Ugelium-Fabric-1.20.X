@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "S": {
+      "item": "minecraft:string"
+    },
+    "U": {
+      "item": "ugelium:ugelium"
+    }
+  },
+  "pattern": [
+    "  #",
+    " R#",
+    "UUS"
+  ],
+  "result": {
+    "item": "ugelium:ugelium_detector"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,11 @@
+{
+  "type": "ugelium:ugelium_fusing",
+  "ingredients": [
+    {
+      "item": "minecraft:netherite_chestplate"
+    }
+  ],
+  "output": {
+    "item": "ugelium:ugelium_chestplate"
+  }
+}

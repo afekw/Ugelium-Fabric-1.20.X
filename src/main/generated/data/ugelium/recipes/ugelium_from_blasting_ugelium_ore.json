@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "ugelium",
+  "ingredient": {
+    "item": "ugelium:ugelium_ore"
+  },
+  "result": "ugelium:ugelium"
+}

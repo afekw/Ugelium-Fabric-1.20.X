@@ -1,0 +1,11 @@
+{
+  "type": "ugelium:ugelium_fusing",
+  "ingredients": [
+    {
+      "item": "minecraft:netherite_boots"
+    }
+  ],
+  "output": {
+    "item": "ugelium:ugelium_boots"
+  }
+}

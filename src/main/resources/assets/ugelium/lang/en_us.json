@@ -1,0 +1,27 @@
+{
+  "item.ugelium.raw_ugelium": "Raw Ugelium",
+  "item.ugelium.ugelium": "Ugelium",
+  "item.ugelium.ugelium_detector": "Ugelium Detector",
+  "tooltip.ugelium.ugelium_detector": "Finds Ugelium Underground",
+
+  "item.ugelium.ugelium_hoe": "Ugelium Hoe",
+  "item.ugelium.ugelium_shovel": "Ugelium Shovel",
+  "item.ugelium.ugelium_sword": "Ugelium Sword",
+  "item.ugelium.ugelium_axe": "Ugelium Axe",
+  "item.ugelium.ugelium_pickaxe": "Ugelium Pickaxe",
+
+  "block.ugelium.ugelium_block": "Block Of Ugelium",
+  "block.ugelium.raw_ugelium_block": "Block Of Raw Ugelium",
+  "block.ugelium.ugelium_ore": "Block Of Ugelium Ore",
+
+  "item.ugelium.ugelium_helmet": "Ugelium Helmet",
+  "item.ugelium.ugelium_chestplate": "Ugelium Chestplate",
+  "item.ugelium.ugelium_leggings": "Ugelium Leggings",
+  "item.ugelium.ugelium_boots": "Ugelium Boots",
+
+  "block.ugelium.ugelium_fuser": "Ugelium Fuser",
+
+
+  "itemgroup.ugelium": "Ugelium Items"
+
+}

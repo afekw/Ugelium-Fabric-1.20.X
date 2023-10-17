@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:polished_blackstone_slab"
+    },
+    "U": {
+      "item": "ugelium:ugelium"
+    }
+  },
+  "pattern": [
+    "###",
+    "UUU",
+    "U U"
+  ],
+  "result": {
+    "item": "ugelium:ugelium_fuser"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,11 @@
+{
+  "type": "ugelium:ugelium_fusing",
+  "ingredients": [
+    {
+      "item": "minecraft:netherite_leggings"
+    }
+  ],
+  "output": {
+    "item": "ugelium:ugelium_leggings"
+  }
+}

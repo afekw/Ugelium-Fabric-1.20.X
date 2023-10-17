@@ -1,0 +1,5 @@
+// 1.20.2	2023-10-14T21:14:57.6084662	Ugelium/Tags for minecraft:block
+81fc42a2e7b98bd2b14bb9db46d9cba296e57920 data\fabric\tags\blocks\needs_tool_level_4.json
+b8a212e5154ee3a8fe97d3befc56c4d4c1acefe6 data\minecraft\tags\blocks\mineable\pickaxe.json
+8a0712ff383b021809f61f43b1668ab342264605 data\ugelium\tags\blocks\ugelium_detector_detectable_blocks.json
+243c667ab7b6e62d0206f0e6ace5a77287adfc20 data\fabric\tags\blocks\needs_tool_level_5.json

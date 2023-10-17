@@ -1,0 +1,11 @@
+{
+  "type": "ugelium:ugelium_fusing",
+  "ingredients": [
+    {
+      "item": "minecraft:netherite_sword"
+    }
+  ],
+  "output": {
+    "item": "ugelium:ugelium_sword"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "cookingtime": 100,
+  "experience": 6.3,
+  "group": "ugelium_block",
+  "ingredient": {
+    "item": "ugelium:raw_ugelium_block"
+  },
+  "result": "ugelium:ugelium_block"
+}

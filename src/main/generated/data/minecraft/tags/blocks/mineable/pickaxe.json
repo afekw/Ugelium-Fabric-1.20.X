@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "ugelium:raw_ugelium_block",
+    "ugelium:ugelium_block",
+    "ugelium:ugelium_fuser",
+    "ugelium:ugelium_ore"
+  ]
+}

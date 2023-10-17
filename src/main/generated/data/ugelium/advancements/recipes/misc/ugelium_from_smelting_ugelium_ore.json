@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:ugelium_from_smelting_ugelium_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_ugelium_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ugelium:ugelium_ore"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_ugelium_ore"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:ugelium_from_smelting_ugelium_ore"
+    ]
+  },
+  "sends_telemetry_event": false
+}
