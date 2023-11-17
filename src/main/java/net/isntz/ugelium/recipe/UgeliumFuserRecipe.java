@@ -32,7 +32,7 @@ public class UgeliumFuserRecipe implements Recipe<SimpleInventory> {
         }
 
 
-        return recipeItems.get(0).test(inventory.getStack(0)) && inventory.getStack(0).getItem() == ModItem.UGELIUM;
+        return recipeItems.get(0).test(inventory.getStack(0)) && inventory.getStack(1).getItem() == ModItem.UGELIUM;
     }
 
     @Override
